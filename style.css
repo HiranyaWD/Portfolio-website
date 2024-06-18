@@ -379,6 +379,9 @@ article .icon {
   color: black;
   border-color: rgb(163, 163, 163);
 }
+#projects h2{
+  font-size: larger;
+}
 
 /* CONTACT */
 
