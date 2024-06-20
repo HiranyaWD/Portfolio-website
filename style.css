@@ -151,7 +151,7 @@ a:hover {
 section {
   padding-top: 4vh;
   height: 96vh;
-  margin: 0 100px;
+  margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
 }
@@ -357,7 +357,6 @@ article .icon {
 
 #projects {
   position: relative;
-  margin: 0 50px;
 }
 
 .color-container {
@@ -379,9 +378,6 @@ article .icon {
 .project-btn {
   color: black;
   border-color: rgb(163, 163, 163);
-}
-#projects h2{
-  font-size: larger;
 }
 
 /* CONTACT */
